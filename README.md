@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo ofrecer una herramienta interactiva para crear
 Este proyecto fue un reto de **Alura Latam**, en el que mi participación consistió en implementar la lógica de interacción mediante **JavaScript**. La herramienta permite elegir la longitud de la contraseña, generarla con una combinación de símbolos, números y letras, y clasificarla como débil, segura o fuerte. Además, incluye la funcionalidad de copiar la contraseña al portapapeles.
 
 ## **Visualiza el proyecto**  
-- **[Enlace al Generador de Contraseñas](https://tu-enlace-aqui.com)** *(Agrega aquí el enlace a tu proyecto en línea)*  
+- **[Enlace al Generador de Contraseñas](https://biankelly.github.io/generador-de-contrasena/)**   
 
 ## **Contacto**  
 Si deseas colaborar o tienes alguna consulta, no dudes en contactarme:  
